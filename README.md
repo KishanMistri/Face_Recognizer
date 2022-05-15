@@ -3,8 +3,8 @@
 # Short pointers on details:
 - Using openCV libraby and Python language on Anaconda Platform 
 - Face detection using Haar cascade Training detector 
-- Dataset used: [AT&T] and [Yalefaces]
-- Dimension reduction using LDA approach and recognization using CNN training on train dataset.
+- Dataset used: [AT&T] [Greyscaled] and [Yalefaces]
+- Dimension reduction using LDA approach and recognization using Keras CNN & EigenFace (Matrix Factorization) approaches.
 - Adds new face image in database while testing on new file
 - Achieved 82.3% accuracy.
 
